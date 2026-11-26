@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sangamlande/Playright#readme",
   "devDependencies": {
     "@playwright/test": "^1.65.1",
-    "@types/node": "^26.6.11"
+    "@types/node": "^26.6.11",
+    "tsx": "^4.23.15"
   }
 }
